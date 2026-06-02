@@ -2,7 +2,7 @@
 
 A Python implementation of a 2D steady-state heat conduction solver using the Finite Volume Method (FVM).
 
-Developed as part of the Computational Thermofluid Dynamics course at the Technical University of Munich.
+Developed as part of the Computational Thermo-fluid Dynamics course at the Technical University of Munich.
 
 ## Features
 
@@ -31,10 +31,6 @@ Implemented geometries:
 - Linear
 - Quadratic
 - Crazy geometry
-
-## Example Results
-
-Insert screenshots here.
 
 ## How to Run
 
